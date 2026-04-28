@@ -1,0 +1,30 @@
+[
+  {
+    "city": "Iași",
+    "position": [47.1585, 27.6014],
+    "address": "Str. Lăbuțelor nr. 10",
+    "phone": "0721 111 111",
+    "email": "iasi@pawport.ro"
+  },
+  {
+    "city": "Timișoara",
+    "position": [45.7489, 21.2087],
+    "address": "Bd. Prieteniei nr. 5",
+    "phone": "0722 222 222",
+    "email": "timisoara@pawport.ro"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "position": [46.7712, 23.6236],
+    "address": "Str. Blăniței nr. 3",
+    "phone": "0723 333 333",
+    "email": "cluj@pawport.ro"
+  },
+  {
+    "city": "București",
+    "position": [44.4268, 26.1025],
+    "address": "Calea Animalelor nr. 25",
+    "phone": "0724 444 444",
+    "email": "bucuresti@pawport.ro"
+  }
+]
